@@ -1,0 +1,1 @@
+{"train_loss_est":2.0881606998174624,"lr":0.0001,"train_loss_detection":0.14682152959947203,"train_loss":0.46851533598256495,"_wandb":{"runtime":10368},"_step":199,"rnn_n_features":64,"_timestamp":1.7680511320355725e+09,"epoch":199,"_runtime":10368,"window_size":32}

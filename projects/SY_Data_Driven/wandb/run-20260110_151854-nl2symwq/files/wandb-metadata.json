@@ -1,0 +1,27 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.6",
+  "startedAt":  "2026-01-10T13:18:54.488752Z",
+  "program":  "FieldSense/projects/SY_Data_Driven/test w&b main_datadriven_15min.ipynb",
+  "codePath":  "FieldSense/projects/SY_Data_Driven/test w&b main_datadriven_15min.ipynb",
+  "git":  {
+    "remote":  "https://github.com/salganik-yos/FieldSense.git",
+    "commit":  "c778f1dfec9cc32920afd2b155f9e545edb0acf4"
+  },
+  "email":  "salganik@mail.tau.ac.il",
+  "root":  "C:\\Users\\after\\FieldSense\\projects\\SY_Data_Driven",
+  "host":  "המחשב_של_יוסי",
+  "executable":  "C:\\Program Files\\Python311\\python.exe",
+  "cpu_count":  16,
+  "cpu_count_logical":  22,
+  "disk":  {
+    "/":  {
+      "total":  "1021821579264",
+      "used":  "346342100992"
+    }
+  },
+  "memory":  {
+    "total":  "16573128704"
+  },
+  "writerId":  "cxrxqghba5f7ahqxln3rlhb3cd3i6c47"
+}

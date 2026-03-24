@@ -1,0 +1,1 @@
+{"_runtime":10390,"rnn_n_features":64,"_timestamp":1.7680096804748566e+09,"_wandb":{"runtime":10390},"window_size":32,"train_loss_detection":0.145594553896391,"train_loss_est":2.083027982366815,"epoch":199,"lr":0.0003,"train_loss":0.46649763286716445,"_step":199}

@@ -1,0 +1,1 @@
+{"epoch":199,"window_size":32,"train_loss_detection":0.1494060883015819,"train_loss":0.4648393840200407,"rnn_n_features":128,"_runtime":12704,"train_loss_est":2.0475228518787167,"_step":199,"lr":3e-05,"_timestamp":1.7681060218918216e+09,"_wandb":{"runtime":12704}}
